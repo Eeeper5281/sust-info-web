@@ -32,7 +32,8 @@
         "group": "Resources",
         "pages": [
           "appeal"
-        ]
+        ],
+        "icon": "folder-open"
       }
     ]
   },
