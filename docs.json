@@ -24,7 +24,8 @@
         "icon": "paperclip",
         "pages": [
           "guidelines",
-          "suggestion-guidelines"
+          "suggestion-guidelines",
+          "support-guidelines"
         ]
       }
     ]
